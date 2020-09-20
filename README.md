@@ -1,10 +1,8 @@
 # BtcTurkApi
 
 [![Build versiyon](https://img.shields.io/badge/pypi-0.0.4-brightgreen.svg)](https://pypi.org/project/BtcTurkApi)
-
-[![Build versiyon](https://img.shields.io/badge/license-mit-lightgrey.svg)](https://pypi.org/project/BtcTurkApi)
-
-[![Build versiyon](https://img.shields.io/badge/python-2.7%2C3.5%2C3.6-blue.svg)](https://pypi.org/project/BtcTurkApi)
+[![Licanse](https://img.shields.io/badge/license-mit-lightgrey.svg)](https://pypi.org/project/BtcTurkApi)
+[![Python Versiyon](https://img.shields.io/badge/python-2.7%2C3.5%2C3.6-blue.svg)](https://pypi.org/project/BtcTurkApi)
 
 ## Installation
 
